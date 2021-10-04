@@ -1,0 +1,76 @@
+#topbar{
+    margin:0 auto;
+    width: 1500px;
+    height: 40px;
+    background-color: black;
+}
+
+#logo{
+    /*figure out how to make respondsive margins*/
+    width:88px;
+    height:26px;
+    margin-top: 7px;
+    margin-left: 50px;
+    float: left;
+    margin-right: 15px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, freesans, sans-serif ;
+}
+.topbar-section{
+    float: left;
+    border-left: 1.3px rgba(104, 102, 102, 0.966) solid;
+    height: 100%;
+}
+#signin-img{
+    height: 20px;
+    width: 20px;
+    margin-left: 13px;
+    margin-top: 12px;
+    float: left;
+    margin-right: 3px;
+
+}
+.topbar-text{
+    color:whitesmoke ;
+   font-weight: bold;
+   font-size: 82%;
+   padding: 13px 21px 0 22px;
+   height: 27px;
+  
+
+}
+#bbc-signin{
+    margin-right: 80px;
+    position: relative;
+    top: 13px;
+   height: 27px;
+   color: whitesmoke;
+   font-size: 82%;
+   font-weight: bold;
+
+   
+}
+#drop-menu{
+    width: 15px;
+    margin-left: 38px;
+}
+
+#search{
+    margin: 7px -1px 7px 8px;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 4px;
+    border: none;
+    background-color: white;
+    width: 160px;
+    float:left;
+}
+#search-image{
+   height: 25px;
+   margin-top: 7px;
+   
+}
+
